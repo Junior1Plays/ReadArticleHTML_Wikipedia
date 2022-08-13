@@ -1,0 +1,9 @@
+{
+    "name": "Wikipedia Articles in HTML",
+    "version": "1.0",
+    "description": "",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+}
